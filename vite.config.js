@@ -4,5 +4,5 @@ import { defineConfig } from "vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "https://github.com/Kristofflus/economist_barplot.git",
+  base: "/economist_barplot/",
 });
